@@ -2,6 +2,8 @@
 
 Minimal reproducer for a Kotlin 2.4.0 regression that breaks Quarkus REST endpoint scanning.
 
+PR with fix in Quarkus: https://github.com/quarkusio/quarkus/pull/55579
+
 ## The bug
 
 A JAX-RS resource that **overrides** a generic `suspend fun` inherited from an abstract base class
