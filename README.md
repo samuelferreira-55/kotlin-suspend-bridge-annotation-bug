@@ -1,8 +1,8 @@
-# PR with fix in Quarkus: https://github.com/quarkusio/quarkus/pull/55579
-
-
-
 # kotlin-suspend-bridge-annotation-bug
+
+
+PR with fix in Quarkus: https://github.com/quarkusio/quarkus/pull/55579
+
 
 Minimal reproducer for a Kotlin 2.4.0 regression that breaks Quarkus REST endpoint scanning.
 
